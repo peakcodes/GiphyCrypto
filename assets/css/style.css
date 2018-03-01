@@ -1,0 +1,23 @@
+body {
+    background-image: url("/Users/timothyhill/gwapps/CryptoGiphy/assets/images/btc background.jpg");
+    color: white;
+}
+
+.crypto-btn {
+    background-color: orange;
+    border:black;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#displayGifs {
+    margin-left: auto;
+}
+
+.search {
+    color: white;
+    
+}
